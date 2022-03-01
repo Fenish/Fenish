@@ -1,7 +1,11 @@
 
 <h2 ><a>Hi there, Im Talha ŞÖHRET!
 <a href="#"><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width=30px/></a></h2>
-
+	
+![](https://komarev.com/ghpvc/?username=fenish&style=for-the-badge&color=green)
+![](https://img.shields.io/github/stars/fenish?style=for-the-badge&color=green)
+![](https://img.shields.io/badge/Favourite%20Language-Python-green?style=for-the-badge)	
+	
 ```python
 class Fenish():
     def __init__(self):
