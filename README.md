@@ -36,5 +36,5 @@ if __name__ == '__main__':
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenish&langs_count=8&theme=dracula"/>
 </div>
 
-## Snake Eating My Contributions
+## Python Eating My Contributions
 ![](https://github.com/fenish/fenish/blob/output/github-contribution-grid-snake.gif)
