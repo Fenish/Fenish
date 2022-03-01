@@ -1,16 +1,40 @@
-### Hi there 👋
 
-<!--
-**Fenish/Fenish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 ><a>Hi there, Im Talha ŞÖHRET!
+<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width=30px/></h2>
 
-Here are some ideas to get you started:
+```python
+class Fenish():
+    def __init__(self):
+        self.name = "Talha ŞÖHRET";
+        self.username = "fenish";
+        self.location = "Bursa, Turkey";
+        self.instagram = "@Sohretalha"
+        self.email = "sohretalhadev@gmail.com"
+        self.working_on = "Machine Learning!"
+  
+    def __str__(self):
+        return self.name
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+if __name__ == '__main__':
+    me = Fenish()
+```
+
+<h1 style=""> My Skills <a href="#"><img src="https://img.icons8.com/?id=g1VPoWNNXpQ7&format=png&size=256&name=icons8-skill-61.png&fromSite=true&token=&color=000000" width=30/></a></h1>
+
+![](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+</br>
+
+
+<div>
+	<img src="https://github-readme-stats.vercel.app/api?username=fenish&theme=dracula"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenish&langs_count=8&theme=dracula"/>
+</div>
+
+## Snake Eating My Contributions
+![](https://github.com/fenish/fenish/blob/output/github-contribution-grid-snake.gif)
