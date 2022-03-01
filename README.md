@@ -19,7 +19,7 @@ if __name__ == '__main__':
     me = Fenish()
 ```
 
-<h1 style=""> My Skills <a href="#"><img src="https://img.icons8.com/?id=g1VPoWNNXpQ7&format=png&size=256&name=icons8-skill-61.png&fromSite=true&token=&color=000000" width=30/></a></h1>
+<h1 style=""> My Skills <a href="#"><img src="https://img.icons8.com/?id=vtTiq9UHv9XC&format=png&size=512&name=icons8-pencil-64.png&fromSite=true&token=&color=000000" width=30/></a></h1>
 
 ![](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
