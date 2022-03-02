@@ -31,14 +31,7 @@ if __name__ == '__main__':
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
 </br>
-
-
-<div>
-	<img src="https://github-readme-stats.vercel.app/api?username=fenish&theme=dracula"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenish&langs_count=8&theme=dracula"/>
-</div>
 
 ## Python Eating My Contributions
 ![](https://github.com/fenish/fenish/blob/output/github-contribution-grid-snake.gif)
