@@ -10,11 +10,8 @@
 class Fenish():
     def __init__(self):
         self.name = "Talha ŞÖHRET";
-        self.username = "fenish";
         self.location = "Bursa, Turkey";
-        self.instagram = "@Sohretalha"
         self.email = "sohretalhadev@gmail.com"
-        self.working_on = "Machine Learning!"
   
     def __str__(self):
         return self.name
