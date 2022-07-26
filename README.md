@@ -1,6 +1,6 @@
 
 <h2 ><a>Hi there, Im Talha ŞÖHRET!
-<a href="#"><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width=30px/></a></h2>
+<a href="#"><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width=30px height=30px/></a></h2>
 	
 ![](https://komarev.com/ghpvc/?username=fenish&style=for-the-badge&color=yellow)
 ![](https://img.shields.io/github/stars/fenish?style=for-the-badge&color=yellow)
