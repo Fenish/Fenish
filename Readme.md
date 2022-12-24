@@ -1,5 +1,6 @@
+
 <p align="center">
-  Welcome to house of useless shits
+  <img src="https://user-images.githubusercontent.com/78863523/132741628-f0462e6d-adf5-4376-b74c-6aad9e5c29f0.gif"/>
 </p>
 
 ### Non-professional experience
