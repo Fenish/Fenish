@@ -30,4 +30,4 @@
 ```
 
 ------------
-<p align="center">Last refresh: <b><!--TIMESTAMP:{"format": "DD.MM.YYYY, - hh:mm:ss", "tz":"Asia/Istanbul"}--></b>
+<p align="center">Last refresh: <b><!--TIMESTAMP:{"format": "DD.MM.YYYY, - HH:mm:ss", "tz":"Asia/Istanbul"}--></b>
