@@ -25,7 +25,7 @@
 |---|---|---|---|
 | 📦 | 10 | [Fenish/Tesla-Replica](https://github.com/Fenish/Tesla-Replica) | Tesla.com clone made with Nuxt3 and Tailwindcss |
 | 📦 | 4 | [Fenish/modulecord](https://github.com/Fenish/modulecord) | A Modular discord bot template |
-| 📦 | 3 | [Fenish/EasyTube](https://github.com/Fenish/EasyTube) | null |
+| 📦 | 3 | [Fenish/EasyTube](https://github.com/Fenish/EasyTube) | Yet another youtube converter with simple and sekxy looking |
 | 📦 | 1 | [Fenish/discordapp.fun](https://github.com/Fenish/discordapp.fun) | Rest api with full of useless shits you should try |
 
 ### 🗣 My activity:
@@ -44,4 +44,4 @@
 ```
 
 ------------
-<p align="center">Last refresh: <b>Tuesday, May 2nd 2023, 7:22:40 pm UTC</b>.
+<p align="center">Last refresh: <b>02 05 2023, 07:30:43</b>.
