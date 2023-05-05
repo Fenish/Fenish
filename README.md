@@ -26,24 +26,24 @@
 |*|Stars|Repo|Description|
 |---|---|---|---|
 | 📦 | 10 | [Fenish/Tesla-Replica](https://github.com/Fenish/Tesla-Replica) | Tesla.com clone made with Nuxt3 and Tailwindcss |
+| 📦 | 6 | [Fenish/EasyTube](https://github.com/Fenish/EasyTube) | Yet another youtube converter with simple and sekxy looking |
 | 📦 | 4 | [Fenish/modulecord](https://github.com/Fenish/modulecord) | A Modular discord bot template |
-| 📦 | 3 | [Fenish/EasyTube](https://github.com/Fenish/EasyTube) | Yet another youtube converter with simple and sekxy looking |
 | 📦 | 1 | [Fenish/discordapp.fun](https://github.com/Fenish/discordapp.fun) | Rest api with full of useless shits you should try |
 
 ### 🗣 My activity:
 
 ```
-⬆️ Pushed 3 commits to Fenish/EasyTube
-⬆️ Pushed 1 commit to Fenish/Fenish
-⬆️ Pushed 1 commit to Fenish/Fenish
+⬆️ Pushed 1 commit to Fenish/EasyTube
 ⬆️ Pushed 3 commits to Fenish/EasyTube
 ⬆️ Pushed 1 commit to Fenish/EasyTube
-⬆️ Pushed 1 commit to Fenish/EasyTube
-⬆️ Pushed 6 commits to Fenish/EasyTube
-⬆️ Pushed 5 commits to Fenish/EasyTube
-⬆️ Pushed 1 commit to Fenish/EasyTube
-⬆️ Pushed 1 commit to Fenish/EasyTube
+⬆️ Pushed 1 commit to Fenish/Fenish
+⬆️ Pushed 1 commit to Fenish/Fenish
+⬆️ Pushed 1 commit to Fenish/Fenish
+⬆️ Pushed 1 commit to Fenish/Fenish
+⬆️ Pushed 1 commit to Fenish/Fenish
+⬆️ Pushed 1 commit to Fenish/Fenish
+⬆️ Pushed 1 commit to Fenish/Fenish
 ```
 
 ------------
-<p align="center">Last refresh: <b>02.05.2023, - 22:48:11</b>
+<p align="center">Last refresh: <b>05.05.2023, - 22:02:02</b>
