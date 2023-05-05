@@ -31,19 +31,11 @@
 | 📦 | 1 | [Fenish/discordapp.fun](https://github.com/Fenish/discordapp.fun) | Rest api with full of useless shits you should try |
 
 ### 🗣 My activity:
-
-```
-⬆️ Pushed 1 commit to Fenish/EasyTube
-⬆️ Pushed 3 commits to Fenish/EasyTube
-⬆️ Pushed 1 commit to Fenish/EasyTube
-⬆️ Pushed 1 commit to Fenish/Fenish
-⬆️ Pushed 1 commit to Fenish/Fenish
-⬆️ Pushed 1 commit to Fenish/Fenish
-⬆️ Pushed 1 commit to Fenish/Fenish
-⬆️ Pushed 1 commit to Fenish/Fenish
-⬆️ Pushed 1 commit to Fenish/Fenish
-⬆️ Pushed 1 commit to Fenish/Fenish
-```
+* ⬆️ Pushed 1 commit to Fenish/EasyTube
+* ⬆️ Pushed 3 commits to Fenish/EasyTube
+* ⬆️ Pushed 1 commit to Fenish/EasyTube
+* ⬆️ Pushed 1 commit to Fenish/Fenish
+* ⬆️ Pushed 1 commit to Fenish/Fenish
 
 ------------
-<p align="center">Last refresh: <b>05.05.2023, - 22:17:36</b>
+<p align="center">Last refresh: <b>05.05.2023, - 22:20:43</b>
