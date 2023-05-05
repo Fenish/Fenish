@@ -26,10 +26,7 @@
 <!--GITHUB_REPOS:{"rows": 4, "sort": "stars"}-->
 
 ### 🗣 My activity:
-
-```
-<!--GITHUB_ACTIVITY:{"rows": 10, "raw": true}-->
-```
+<!--GITHUB_ACTIVITY:{"rows": 5}-->
 
 ------------
 <p align="center">Last refresh: <b><!--TIMESTAMP:{"format": "DD.MM.YYYY, - HH:mm:ss", "tz":"Asia/Istanbul"}--></b>
