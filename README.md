@@ -28,14 +28,14 @@
 | 📦 | 10 | [Fenish/Tesla-Replica](https://github.com/Fenish/Tesla-Replica) | Tesla.com clone made with Nuxt3 and Tailwindcss |
 | 📦 | 6 | [Fenish/EasyTube](https://github.com/Fenish/EasyTube) | Yet another youtube converter with simple and sekxy looking |
 | 📦 | 4 | [Fenish/modulecord](https://github.com/Fenish/modulecord) | A Modular discord bot template |
-| 📦 | 1 | [Fenish/discordapp.fun](https://github.com/Fenish/discordapp.fun) | Rest api with full of useless shits you should try |
+| 📦 | 2 | [Fenish/oy-ve-otesi-database](https://github.com/Fenish/oy-ve-otesi-database) | Oy ve ötesinden sağlanan json verisini database'e aktaran bir script. |
 
 ### 🗣 My activity:
-* ⬆️ Pushed 1 commit to Fenish/EasyTube
-* ⬆️ Pushed 1 commit to Fenish/EasyTube
-* ⬆️ Pushed 1 commit to Fenish/EasyTube
+* ⬆️ Pushed 1 commit to Fenish/oy-ve-otesi-database
+* ⬆️ Pushed 1 commit to Fenish/oy-ve-otesi-database
+* ⬆️ Pushed 1 commit to Fenish/oy-ve-otesi-database
 * ⬆️ Pushed 1 commit to Fenish/EasyTube
 * ⬆️ Pushed 1 commit to Fenish/EasyTube
 
 ------------
-<p align="center">Last refresh: <b>18.05.2023, - 03:54:24</b>
+<p align="center">Last refresh: <b>19.05.2023, - 03:55:27</b>
