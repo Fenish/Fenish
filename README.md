@@ -26,7 +26,7 @@
 |*|Stars|Repo|Description|
 |---|---|---|---|
 | 📦 | 11 | [Fenish/Tesla-Replica](https://github.com/Fenish/Tesla-Replica) | Tesla.com clone made with Nuxt3 and Tailwindcss |
-| 📦 | 6 | [Fenish/EasyTube](https://github.com/Fenish/EasyTube) | Yet another youtube converter with simple and sekxy looking |
+| 📦 | 7 | [Fenish/EasyTube](https://github.com/Fenish/EasyTube) | Yet another youtube converter with simple and sekxy looking |
 | 📦 | 4 | [Fenish/modulecord](https://github.com/Fenish/modulecord) | A Modular discord bot template |
 | 📦 | 4 | [Fenish/oykontrol](https://github.com/Fenish/oykontrol) | CHP ve Oy ve Ötesi verilerini kıyaslamak için bir website |
 
@@ -38,4 +38,4 @@
 * ⬆️ Pushed 1 commit to Fenish/oykontrol
 
 ------------
-<p align="center">Last refresh: <b>23.05.2023, - 03:55:35</b>
+<p align="center">Last refresh: <b>24.05.2023, - 03:56:26</b>
