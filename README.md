@@ -31,11 +31,11 @@
 | 📦 | 4 | [Fenish/oykontrol](https://github.com/Fenish/oykontrol) | CHP ve Oy ve Ötesi verilerini kıyaslamak için bir website |
 
 ### 🗣 My activity:
-* ⬆️ Pushed 1 commit to Fenish/oykontrol
-* ⬆️ Pushed 1 commit to Fenish/oykontrol
-* ⬆️ Pushed 1 commit to Fenish/oykontrol
-* ⬆️ Pushed 1 commit to Fenish/oykontrol
-* ⬆️ Pushed 1 commit to Fenish/oykontrol
+* 🗣 Commented on #1240 in Vendicated/Vencord
+* 🗣 Commented on #1240 in Vendicated/Vencord
+* 🗣 Commented on #1240 in Vendicated/Vencord
+* 🗣 Commented on #1240 in Vendicated/Vencord
+* ❗️ Opened issue #1240 in Vendicated/Vencord
 
 ------------
-<p align="center">Last refresh: <b>06.06.2023, - 04:03:57</b>
+<p align="center">Last refresh: <b>07.06.2023, - 04:05:19</b>
