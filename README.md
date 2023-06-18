@@ -25,7 +25,7 @@
 #### Top
 |*|Stars|Repo|Description|
 |---|---|---|---|
-| 📦 | 11 | [Fenish/Tesla-Replica](https://github.com/Fenish/Tesla-Replica) | Tesla.com clone made with Nuxt3 and Tailwindcss |
+| 📦 | 12 | [Fenish/Tesla-Replica](https://github.com/Fenish/Tesla-Replica) | Tesla.com clone made with Nuxt3 and Tailwindcss |
 | 📦 | 8 | [Fenish/EasyTube](https://github.com/Fenish/EasyTube) | Yet another youtube converter with simple and sekxy looking |
 | 📦 | 4 | [Fenish/modulecord](https://github.com/Fenish/modulecord) | A Modular discord bot template |
 | 📦 | 4 | [Fenish/oykontrol](https://github.com/Fenish/oykontrol) | CHP ve Oy ve Ötesi verilerini kıyaslamak için bir website |
@@ -38,4 +38,4 @@
 * ❗️ Opened issue #1240 in Vendicated/Vencord
 
 ------------
-<p align="center">Last refresh: <b>17.06.2023, - 03:57:31</b>
+<p align="center">Last refresh: <b>18.06.2023, - 04:08:15</b>
