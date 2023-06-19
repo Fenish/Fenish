@@ -38,4 +38,4 @@
 * ❗️ Opened issue #1240 in Vendicated/Vencord
 
 ------------
-<p align="center">Last refresh: <b>18.06.2023, - 04:08:15</b>
+<p align="center">Last refresh: <b>19.06.2023, - 04:00:46</b>
