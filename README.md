@@ -38,4 +38,4 @@
 * 🗣 Commented on #1240 in Vendicated/Vencord
 
 ------------
-<p align="center">Last refresh: <b>27.06.2023, - 04:10:43</b>
+<p align="center">Last refresh: <b>28.06.2023, - 04:10:57</b>
