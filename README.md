@@ -31,11 +31,11 @@
 | 📦 | 4 | [Fenish/oykontrol](https://github.com/Fenish/oykontrol) | CHP ve Oy ve Ötesi verilerini kıyaslamak için bir website |
 
 ### 🗣 My activity:
+* ❗️ Closed issue #220 in prazdevs/pinia-plugin-persistedstate
+* 🗣 Commented on #220 in prazdevs/pinia-plugin-persistedstate
+* ❗️ Opened issue #480 in sidebase/nuxt-auth
+* ❗️ Opened issue #220 in prazdevs/pinia-plugin-persistedstate
 * ❗️ Opened issue #283 in nuxt/devtools
-* 🗣 Commented on #1240 in Vendicated/Vencord
-* 🗣 Commented on #1240 in Vendicated/Vencord
-* 🗣 Commented on #1240 in Vendicated/Vencord
-* 🗣 Commented on #1240 in Vendicated/Vencord
 
 ------------
-<p align="center">Last refresh: <b>11.07.2023, - 04:02:26</b>
+<p align="center">Last refresh: <b>12.07.2023, - 04:08:02</b>
