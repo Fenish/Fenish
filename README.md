@@ -40,4 +40,4 @@
 * ❗️ Opened issue #220 in prazdevs/pinia-plugin-persistedstate
 
 ------------
-<p align="center">Last refresh: <b>17.07.2023, - 04:11:53</b>
+<p align="center">Last refresh: <b>18.07.2023, - 04:24:20</b>
