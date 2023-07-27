@@ -33,11 +33,11 @@
 | 📦 | 4 | [Fenish/oykontrol](https://github.com/Fenish/oykontrol) | CHP ve Oy ve Ötesi verilerini kıyaslamak için bir website |
 
 ### 🗣 My activity:
+* ⬆️ Pushed 1 commit to ElephaBase/backend
+* ⬆️ Pushed 4 commits to ElephaBase/backend
+* ⬆️ Pushed 1 commit to ElephaBase/.github
+* ⬆️ Pushed 1 commit to ElephaBase/backend
 * ⬆️ Pushed 1 commit to Fenish/Fenish
-* ❗️ Closed issue #220 in prazdevs/pinia-plugin-persistedstate
-* 🗣 Commented on #220 in prazdevs/pinia-plugin-persistedstate
-* ❗️ Opened issue #480 in sidebase/nuxt-auth
-* ❗️ Opened issue #220 in prazdevs/pinia-plugin-persistedstate
 
 ------------
-<p align="center">Last refresh: <b>26.07.2023, - 03:59:16</b>
+<p align="center">Last refresh: <b>27.07.2023, - 03:53:51</b>
