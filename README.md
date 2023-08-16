@@ -33,11 +33,11 @@
 | 📦 | 4 | [Fenish/oykontrol](https://github.com/Fenish/oykontrol) | CHP ve Oy ve Ötesi verilerini kıyaslamak için bir website |
 
 ### 🗣 My activity:
-* ⬆️ Pushed 2 commits to NightBase/backend
-* ⬆️ Pushed 2 commits to NightBase/backend
-* ⬆️ Pushed 10 commits to NightBase/backend
 * ⬆️ Pushed 1 commit to NightBase/backend
+* ⬆️ Pushed 2 commits to NightBase/backend
 * ⬆️ Pushed 1 commit to NightBase/backend
+* ⬆️ Pushed 6 commits to NightBase/backend
+* ⬆️ Pushed 2 commits to NightBase/backend
 
 ------------
-<p align="center">Last refresh: <b>15.08.2023, - 03:44:50</b>
+<p align="center">Last refresh: <b>16.08.2023, - 03:44:13</b>
