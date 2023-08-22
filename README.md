@@ -32,12 +32,5 @@
 | 📦 | 4 | [Fenish/modulecord](https://github.com/Fenish/modulecord) | A Modular discord bot template |
 | 📦 | 4 | [Fenish/oykontrol](https://github.com/Fenish/oykontrol) | CHP ve Oy ve Ötesi verilerini kıyaslamak için bir website |
 
-### 🗣 My activity:
-* ⬆️ Pushed 2 commits to NightBase/studio
-* ⬆️ Pushed 1 commit to NightBase/backend
-* ⬆️ Pushed 2 commits to NightBase/backend
-* ⬆️ Pushed 1 commit to NightBase/backend
-* ⬆️ Pushed 6 commits to NightBase/backend
-
 ------------
-<p align="center">Last refresh: <b>22.08.2023, - 03:45:32</b>
+<p align="center">Last refresh: <b>23.08.2023, - 01:51:33</b>
