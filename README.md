@@ -33,4 +33,4 @@
 | 📦 | 3 | [Fenish/oykontrol](https://github.com/Fenish/oykontrol) | CHP ve Oy ve Ötesi verilerini kıyaslamak için bir website |
 
 ------------
-<p align="center">Last refresh: <b>06.10.2023, - 03:47:24</b>
+<p align="center">Last refresh: <b>07.10.2023, - 03:46:37</b>
