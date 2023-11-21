@@ -563,13 +563,13 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Vue</span>
-                                <div class="bar" style="width: 33.88368989712023%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">42%</span>
+                                <div class="bar" style="width: 34.68225900935107%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">43%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 30.645602858249752%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">38%</span>
+                                <div class="bar" style="width: 30.981753487665706%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">39%</span>
                             </div>
                         </div>
                     </section>
@@ -2610,7 +2610,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Nov 2023, 23:17:05 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Nov 2023, 00:15:53 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
