@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1465" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1434" class="large">
     <defs>
         <style/>
     </defs>
@@ -171,7 +171,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    37.1 MB used
+                                    37.2 MB used
                                 </div>
                             </section>
                             <section>
@@ -179,7 +179,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M4.25 2.5c-1.336 0-2.75 1.164-2.75 3 0 2.15 1.58 4.144 3.365 5.682A20.565 20.565 0 008 13.393a20.561 20.561 0 003.135-2.211C12.92 9.644 14.5 7.65 14.5 5.5c0-1.836-1.414-3-2.75-3-1.373 0-2.609.986-3.029 2.456a.75.75 0 01-1.442 0C6.859 3.486 5.623 2.5 4.25 2.5zM8 14.25l-.345.666-.002-.001-.006-.003-.018-.01a7.643 7.643 0 01-.31-.17 22.075 22.075 0 01-3.434-2.414C2.045 10.731 0 8.35 0 5.5 0 2.836 2.086 1 4.25 1 5.797 1 7.153 1.802 8 3.02 8.847 1.802 10.203 1 11.75 1 13.914 1 16 2.836 16 5.5c0 2.85-2.045 5.231-3.885 6.818a22.08 22.08 0 01-3.744 2.584l-.018.01-.006.003h-.002L8 14.25zm0 0l.345.666a.752.752 0 01-.69 0L8 14.25z"/>
                                     </svg>
-                                    1 Sponsor
+                                    0 Sponsors
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -563,13 +563,13 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Vue</span>
-                                <div class="bar" style="width: 43.40438940317676%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">54%</span>
+                                <div class="bar" style="width: 43.74802628610957%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">55%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 27.96499553611924%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">35%</span>
+                                <div class="bar" style="width: 28.773565517275948%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">36%</span>
                             </div>
                         </div>
                     </section>
@@ -2609,23 +2609,23 @@
                                 <mask id="project-bar">
                                     <rect x="0" y="0" width="880" height="8" fill="white" rx="5"/>
                                 </mask>
-                                <rect mask="url(#project-bar)" x="0" y="0" width="176" height="8" fill="#ec6cb9"/>
-                                <rect mask="url(#project-bar)" x="176" y="0" width="704" height="8" fill="#d1d5da"/>
+                                <rect mask="url(#project-bar)" x="0" y="0" width="0" height="8" fill="#ec6cb9"/>
+                                <rect mask="url(#project-bar)" x="0" y="0" width="880" height="8" fill="#d1d5da"/>
                             </svg>
                         </div>
                         <div class="goal-text">
-                            <span>1 sponsor is funding Fenish's work</span>
+                            <span>
+                            </span>
                             <span>5 monthly sponsors</span>
                         </div>
                         <div class="row">
-                            <img class="avatar " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAIAAABuYg/PAAAACXBIWXMAAAsTAAALEwEAmpwYAAADiUlEQVR4nO2XbU/TUBSA+UkMEFAiiuCGoAw2GTAQBASiASfvL4oi0m2dY+DcUJGy0RUURVSkE5AhSsKWaBACiYksJsRojLad3YsSwwczrow5Rtsh8ZPJ8+Gubc6Te+45Z21YOI//zwhjfSI+sUiQVp2cXpMmqRVm1TEhqU3gn9yhLHqvSHb5JYQQmgGHccKNTnKiVT8THSsMWXbm/BiEECqU6nvG1YSu0wjjocli9h1v6/kKIYRumA7JhE66jRP0npg0TrLYOLG0RFFSdbtz0NE56LiNuxjimiyeoMQfyuUka9FOGybcyLgLsJ1m8MX354trs+/cNju9lamFT8dEZeyyrgcrerNTh9MAf0G98okaXQTrR9bV6aW1oCbbOrKGdm4yPIjsqnEhnMdPTC7+F7Ie/GtGToPs4gD4+fAPmXP2ndO67AQLm91ps9Nn69U7lwVwb+bH9NKaddlls9P4a+/RDs+6x+e9i7E33ouS3Ep2me7e++4xV5fZCdi+FD1jcz9n3q4G3Rky9IJTNcqafyeKFcziwV/9fPl2FewPYF12Tsy7DiblcWxqwf4EaQK/UGH4AveReramNlk82JQHs7gBJosbMZORUSmhjatC2QCEEEojyX0wouuUN6Ehz0Ze5JGCClPrrU8qlOphnCPoBghOlDehvIjkkGXhPP7hVFn91QUIISCEUBhIgAqjdKO03uwMQD34QVwgZ4jGJIuNy2y58QGYAlDfdfh6Q+eHdoQuqOjbiUyY0xbU5P3f6aeCynQ4rTSRRzObQ5aJT6h2IIMxqg6e202Zl14SIDeQ2pE/ZBBCREWn7arMD83Q5hHCGHVBa+dFHvkrmcJIwhi1FVU/dX10c2fZJZqYfWKWNIry4DNNTyWF13xdEiBTomT7fYfmvsM/aVtJEVezVGO6FPIFzS7WsaSxl+x48G07mVDazCIrrXvsi1XVZmU9M7mB9E+dzg+o9+OBpFNMMlGe0hfoSvfniPUxylwgnQ+Dbw7GqLL6EeYzE4jz1Y3tSyBQfGIRq6xjeFtZtdzGpc8ESSkVWcVa0CXcS1/l1+MwRl3Sr5xuNAOKzt2J3itiL32BsIajDEIIX4kqjGTArfzyPg5TP0IA3vVZkW/Ui2bIsfVuVvF1DjIePzIqNSNXIS29yUTZzfyKWycruwvOdkvLvFdySrokhR0AYXarr3HZP5l2kbD/Mt4upPEXzxkf7hxutbwAAAAASUVORK5CYII=" width="24" height="24" alt="" />
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Dec 2023, 10:15:46 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Dec 2023, 11:21:00 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
